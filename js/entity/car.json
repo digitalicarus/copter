@@ -1,0 +1,52 @@
+{
+	"parts": [
+		{
+			"name":   "body",
+			"points": [-3,16,3,16,5,15,7,13,8,9,8,5,10,3,7,4,7,-4,8,-10,5,-14,1,-15,-1,-15,-5,-14,-8,-10,-7,-4,-7,4,-10,3,-8,5,-8,9,-7,13,-5,15,-3,16],
+			"stroke": "",
+			"fill":   ""
+		},
+		{
+			"name":   "leftHeadlight",
+			"points": [-3,15,-5,13,-3,14,-3,15],
+			"stroke": "yellow",
+			"fill":   ""
+		},
+		{
+			"name":   "rightHeadlight",
+			"points": [3,15,5,13,3,14,3,15],
+			"stroke": "yellow",
+			"fill":   ""
+		},
+		{
+			"name":   "leftWindow",
+			"points": [-6,7,-6,-3,-5,-2,-6,7],
+			"stroke": "",
+			"fill":   ""
+		},
+		{
+			"name":   "rightWindow",
+			"points": [6,7,6,-3,5,-2,6,7],
+			"stroke": "",
+			"fill":   ""
+		},
+		{
+			"name":   "backGlass",
+			"points": [-3,-6,-5,-12,-3,-8,-2,-13,2,-13,3,-8,5,-12,3,-6,-3,-6],
+			"stroke": "",
+			"fill":   ""
+		},
+		{
+			"name":   "windshield",
+			"points": [-4,2,-5,8,-3,9,3,9,5,8,4,2],
+			"stroke": "",
+			"fill":   "#111"
+		},
+		{
+			"name":   "moonRoof",
+			"points": [-4,2,-4,-4,4,-4,4,2],
+			"stroke": "",
+			"fill":   "#111"
+		}
+	]
+}
